@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[spl:home|Door43 (spl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-spl|d43-spl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-spl/archive/master.zip|d43-spl.zip]]
+
+**Recent Changes**
+{{changes>ns = spl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/spl|Ethnologue data]]
+
